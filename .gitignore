@@ -2,7 +2,6 @@
 __pycache__/
 *.py[cod]
 *.egg-info/
-dist/
 build/
 *.egg
 
@@ -25,9 +24,6 @@ Thumbs.db
 *.db
 *.db-journal
 *.db-wal
-
-# Dashboard build artifacts
-src/toolglass/dashboard/dist/
 
 # Coverage
 htmlcov/
